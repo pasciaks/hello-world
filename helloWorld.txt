@@ -1,2 +1,1 @@
-ls -l
-tree
+This is a new Text File.
